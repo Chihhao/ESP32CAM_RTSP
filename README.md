@@ -33,5 +33,9 @@ char *password = "MY_PASSWORD";  // Put your PASSWORD here
 ![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/6.png)
 ![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/5.png)
 
-
+## 注意
+(1) 注意鏡頭的散熱  
+(2) 注意esp32晶片的散熱  
+(3) 注意wifi收訊，必要時可外加天線，若要加天線，記得改變電阻設定  
+(4) 可在5V並聯1000uF電容以穩定電源  
 
