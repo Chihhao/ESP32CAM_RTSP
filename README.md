@@ -1,15 +1,19 @@
 # ESP32CAM_RTSP (針對NAS使用)
 
-## 來自
-https://github.com/geeksville/Micro-RTSP  
-本專案是精簡版本  
+## 本專案是精簡版本，源自 https://github.com/geeksville/Micro-RTSP  
 
-![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/2.png)  
-![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/4.png)  
-![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/3.png)  
+## 成品
+![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/2.jpg)  
+![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/4.jpg)  
+![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/3.jpg)  
 
 ## 材料
 (1) ESP32-CAM  
+
+## 3D列印外殼
+(1) thingiverse: https://www.thingiverse.com/thing:4860203  
+(2) tinkercad: https://www.tinkercad.com/things/3lzPcMxvVgm  
+(3) tinkercad: https://www.tinkercad.com/things/0DIKF8FIIfn  
 
 ## 特點
 (1) HTTP 串流  
