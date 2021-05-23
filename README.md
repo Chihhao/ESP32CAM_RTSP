@@ -2,7 +2,7 @@
 
 ## 本專案是精簡版本，源自 https://github.com/geeksville/Micro-RTSP  
 
-## 成品
+## 成品如下  
 ![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/2.jpg)  
 ![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/4.jpg)  
 ![image](https://github.com/Chihhao/ESP32CAM_RTSP/blob/main/image/3.jpg)  
@@ -19,6 +19,11 @@
 (1) HTTP 串流  
 (2) RTSP 串流  
 (3) HTTP/RTSP 只能有一個連入，使用HTTP連上後，RTSP會自動斷掉，當HTTP關閉後，RTSP會重新啟動  
+
+## 函式庫 
+(1) 請複製library目錄中的所有資料到Arduino的library目錄 (ex: C:\Users\USERNAME\Documents\Arduino\libraries)  
+(2) 或者可以自行下載，網址如下  
+https://github.com/geeksville/Micro-RTSP  
 
 ## 設定wifi
 ```C++
